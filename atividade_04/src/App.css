@@ -1,0 +1,16 @@
+.App{
+  margin-left: 100px;
+}
+
+.link span{
+  font: bold;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
